@@ -77,6 +77,7 @@ let resul_mes = parseInt(idade3)*12;
 let resul_dias = parseInt(idade3)*365;
 let resul_horas = parseInt(idade3)*24*365;
 
+
 console.log("A idade do usuário em", resul_mes,"Meses");
 console.log("A idade do usuário em", resul_dias,"Dias");
 console.log("A idade do usuário em", resul_horas,"Horas");
