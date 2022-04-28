@@ -1,0 +1,28 @@
+
+1 - Question
+A) O que vai ser impresso no console?
+Resposta:</b>Será impresso a multiplicação 
+B) O que aconteceria se retirasse os dois `console.log` e simplesmente invocasse a função `minhaFuncao(2)` e `minhaFuncao(10)`? O que apareceria no console?
+Resposta:Nada será mostrado na tela, porém as função irá receber os valores como minhaFuncao(2);minhaFuncao(10)
+
+2 - Question
+A. Explique o que essa função faz e qual é sua utilidade
+Nesse trecho ele recebe do usuário as informações
+"
+let textoDoUsuario = prompt("Insira um texto");
+"
+nessa parte a variável recebida do usuário é 
+transformada em minisculas e é feito uma busca, 
+ou seja se tiver escrito cenoura irá localizar 
+a combinação de caracteres
+"
+const outraFuncao = function(texto) {
+	return texto.toLowerCase().includes("cenoura")
+}
+"
+Na seguinte parte logo a baixo, temos a criação de uma variável 
+tipo constatnte e sua apresentação usando o console
+"
+const resposta = outraFuncao(textoDoUsuario)
+console.log(resposta)
+"
