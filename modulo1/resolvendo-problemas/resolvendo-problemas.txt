@@ -1,0 +1,54 @@
+Na aula foram discutidos 7 passos, 
+porém fica-se entendido que existem 
+na verdade N(ene) formas, técnicas 
+de se revolver problemas, seguindo 
+as dá aula vamos resumi-las:
+
+1°-Ter atenção no enunciado:
+A atenção em todas as áreas são de 
+fundamental importância mas se torna 
+peça chave de um bom profissional do 
+mundo dos códigos pois um pouco de 
+dispersão da atenção do profissional 
+pode se acarretar em mais despesas 
+para a empresa, mas demora da entrega 
+as resoluções e ferramentas para o 
+cliente final trazendo um constrangimento 
+e frustração para todos que dependem 
+daquele resultado.
+2°-Retirar informações relevantes
+Bem em todos os problemas existem sem 
+existem ali as indicações para sua 
+resolução pois tudo é até certo ponto 
+interligado de alguma maneira.
+3°-Pensar nas entradas e saídas
+A informática na minha humilde 
+concepção é de entradas, processamento 
+e saídas sendo assim importante descobre 
+em qual estagio o problema se encontra e 
+até onde se estende.
+4°-Fazer um esquema visual
+Usar ferramentas visuais para enxergar 
+os problemas  é uma ótima estratégia pois 
+é um forma de aproximar os problemas da 
+maneira mais palpável possível dando assim 
+suas dimensões, prioridades e mensurando 
+os riscos.
+5°-Crie um código feio
+Para toda obra de arte começa por bons rabiscos 
+e ideias que muitas as vezes parecem ridículas no 
+primeiro momento mas dali se melhora e 
+aperfeiçoam-se as ideias
+6°-Teste na força-bruta
+O processo de teste antes de entrar na produção 
+é sem dúvidas um dos passos principais pois nele 
+podemos identificar anomalias que poderão economizar 
+milhões para a empresa e seus clientes por isso se 
+deve levar muito a sério essa parte do processo.
+7°-Refaça
+Na programação imagino que nunca está 100% a 
+ponto de não necessitar de uma melhoria por menor que seja
+
+Em resumo o processo de resolução de problemas é uma parte muito importante do processo
+e se pode trabalhar as resoluções de processos de inúmeras maneiras de acordo com o cenários 
+encontrado e as técnicas aplicadas pelo profissional desenvolvedor.
