@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    margin-top: 0%;
+    width: 100%;
+    background-color: azure;
+    position: fixed;
+    top: 0px;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+ .body{
+    margin: 70px;
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(8, 200, 82);
+    height: 100%;
+}
+li{
+    text-decoration: none;
+}
