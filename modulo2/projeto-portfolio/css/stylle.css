@@ -1,6 +1,19 @@
 *{
     margin: 0px;
     text-decoration: none;
+    behavior: url(csshover3.htc);
+}
+.tbl-Language{
+    width: 70%;
+    text-align: center;
+}
+.tbl-vitae{
+    border: 1px solid black;
+    
+}
+.menu{
+    background-color: blue;
+   
 }
 .menu ul{
     display: block;
@@ -12,6 +25,9 @@
     padding: 3% 10% 2% 0%;
     font-size: 20px;
 }
+.img-language{
+    width: 5%;
+}
 .img-header{
     width: 100%;  
 }
@@ -19,10 +35,34 @@
 /* BIO */
 .img-profile{
     width: 30%;
+    text-align:justify;
+    margin-bottom: 1%;
 }
-
+.txt-bio{
+    text-align: justify;
+    margin-bottom: 1%;
+}
+.viewer{
+    margin: 5%;
+}
 
 footer{
     text-align: center;
     background-color: blue;
+    display: flex;
+}
+
+footer .footer-contact{
+    display: grid;
+    margin: 5%;
+}
+footer .footer-img-social{
+    display: grid;
+}
+footer .footer-img-social .footer-img-in{
+    width: 50%;
+    margin-top: 5%;
+}
+footer .footer-contact .footer-phone{
+    color: aliceblue;
 }
