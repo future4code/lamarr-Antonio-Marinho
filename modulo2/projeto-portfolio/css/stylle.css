@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    text-decoration: none;
+}
+.menu ul{
+    display: block;
+    text-align: center;
+    justify-content: center;
+}
+.menu ul li{
+    display: inline-block;
+    padding: 3% 10% 2% 0%;
+    font-size: 20px;
+}
+.img-header{
+    width: 100%;  
+}
+
+/* BIO */
+.img-profile{
+    width: 30%;
+}
+
+
+footer{
+    text-align: center;
+    background-color: blue;
+}
