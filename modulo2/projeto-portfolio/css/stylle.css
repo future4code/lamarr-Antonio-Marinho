@@ -1,19 +1,16 @@
 *{
     margin: 0px;
     text-decoration: none;
-    behavior: url(csshover3.htc);
 }
 .tbl-Language{
     width: 70%;
     text-align: center;
 }
 .tbl-vitae{
-    border: 1px solid black;
-    
+    border: 1px solid black; 
 }
 .menu{
-    background-color: blue;
-   
+    background-color: rgb(143, 143, 238);
 }
 .menu ul{
     display: block;
@@ -24,6 +21,9 @@
     display: inline-block;
     padding: 3% 10% 2% 0%;
     font-size: 20px;
+}
+.menu ul li a{
+    color: black;
 }
 .img-language{
     width: 5%;
@@ -48,7 +48,7 @@
 
 footer{
     text-align: center;
-    background-color: blue;
+    background-color: rgb(143, 143, 238);
     display: flex;
 }
 
@@ -65,4 +65,11 @@ footer .footer-img-social .footer-img-in{
 }
 footer .footer-contact .footer-phone{
     color: aliceblue;
+}
+footer label{
+   text-align: left;
+   font-weight: bold;
+   margin: 2px;
+   width: 2%;
+   border: 30px;
 }
