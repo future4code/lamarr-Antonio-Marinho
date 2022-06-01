@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+    
+}
+.log-home{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 5px;
+}
+
+button{
+    margin-right: 2%;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    background-color: mediumvioletred;
+    justify-content: space-between;
+    height: 50px;
+    flex-direction: row;
+    font-weight: bold;
+}
+h3{
+    display: flex;
+    align-items: baseline;
+    margin: 20px;
+}
+header .fig-header{
+    width: 35px;
+    margin-left: 20px;
+    margin-top: 3px;
+}
+.view{
+    display: flex;
+    flex-grow: 2;
+}
+
+.menu-l{
+display: flex;
+background-color: #f2d0e0;
+width: 20%;
+
+
+}
+li{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-grow: 3;
+    flex-wrap: wrap;
+   
+    
+}
+.m-a{
+    display: flex;
+    margin-left: auto;
+    margin-right: 20px;
+    
+}
+table{
+    display: flex;
+    width: 18%;
+    font-weight: bold;
+    color: black;
+    
+}
+tr{
+    display: flex;
+    height: 30px;
+    width: 100%;
+}
+td{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    margin: 6px 0px 0px 10px;
+}
+.td-lef{
+    display: flex;
+    width: 150px;
+
+    margin-left: auto;
+}
+.menu-l-img{
+    width: 30px;
+      
+}
+
+.shop{
+    background-color:aqua;
+    align-content: stretch;
+    width: 80vw;
+}
+
+
+
+footer{
+    background-color:darkgray;
+}
