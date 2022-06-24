@@ -1,0 +1,16 @@
+.smallcard-container {
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+
+    margin-bottom: 10px;
+    flex-direction: row;
+   align-self: stretch;
+
+}
+
+.smallcard-container > .img-email {
+    width: 60px;
+    margin: 20px;
+    display: flex;
+}
