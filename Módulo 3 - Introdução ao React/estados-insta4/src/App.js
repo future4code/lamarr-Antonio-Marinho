@@ -1,7 +1,7 @@
 import React from 'react';
 import Post from './components/Post/Post';
 import './style.css'
-
+import Forms from './components/forms/Forms';
 
 function App() {
 
@@ -21,7 +21,11 @@ function App() {
 return(
   <div className='MainContainer'>
            <div>
+           <Forms
+            
+            />
     {ListaPessoa}
+  
            </div>
   </div>
   

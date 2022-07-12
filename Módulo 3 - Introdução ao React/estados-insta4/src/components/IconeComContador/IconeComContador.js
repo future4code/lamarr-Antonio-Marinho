@@ -1,9 +1,6 @@
 import React from 'react'
 import './style.css'
 
-
-
-
 export function IconeComContador(props) {
 	
 	return <div className='IconContainer'>
